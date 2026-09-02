@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**SarvajnaRekhapalli/SarvajnaRekhapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year B.Tech CS student at Vignan's Institute of Engineering for Women, Visakhapatnam (CGPA: 9.21/10)
+- 💻 Languages: **Java**, SQL, HTML5 | Core: Python, CSS3, OOP, DSA, DBMS
+- 🚀 Currently learning: **Spring Boot, Spring MVC, Spring REST**
+- 🛠️ Built an **AI-Powered Placement Preparation Portal** — Spring Boot MVC, Thymeleaf, MySQL (Spring Data JPA), Groq AI (LLaMA) for personalized performance analysis & AI-generated MCQs
+- 🌐 Developed **Real-Time Unit Converter** (JavaScript, HTML, CSS) — deployed on AWS S3
+- 💼 Java Full Stack Development Intern @ Gradstreet — strengthened DSA & web dev fundamentals, hackathon participant
+- 🏆 1000+ problems solved on CodeChef, 40+ on LeetCode
+- 🌟 Power Platform Lead @ Microsoft Learn Student Community (MLSC)
+- 📜 Certified: Azure AI Fundamentals (Microsoft), NPTEL, Java Problem Solving & SQL (CodeChef)
+- 🎯 Seeking Software Engineer roles — actively preparing for placements
+- 📫 Reach me: sarvajnarekhapalli111@gmail.com | [LinkedIn](https://linkedin.com/in/sarvajna-rekhapalli)
