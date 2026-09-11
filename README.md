@@ -19,14 +19,10 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Placement Preparation Portal
-- Spring Boot MVC + Thymeleaf + MySQL + Groq AI (LLaMA)
-- Personalized performance analysis & AI-generated MCQs
-- 🔗 [Source Code](https://github.com/SarvajnaRekhapalli/ai-placement-portal)
 
 ### 🌐 Real-Time Unit Converter
 - JavaScript, HTML, CSS
-- 🔗 [Live Demo](https://super-mermaid-388e04.netlify.app) | [Source Code](https://github.com/SarvajnaRekhapalli/unit-converter)
+- 🔗 [Live Demo](https://simple-unitconverter.netlify.app) | [Source Code](https://github.com/SarvajnaRekhapalli/unit-converter)
 
 ### 💻 LeetCode Solutions
 - 40+ problems solved in Java
