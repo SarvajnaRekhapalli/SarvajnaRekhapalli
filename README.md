@@ -1,7 +1,7 @@
 # Hi, I'm Sarvajna 👋
 
 🎓 Final-year B.Tech CS student at Vignan's Institute of Engineering for Women, Visakhapatnam
-📊 CGPA: 9.21/10
+📊 CGPA: 9.18/10
 💻 Java Full Stack Developer | AI Enthusiast
 🎯 Seeking Software Engineer roles
 
