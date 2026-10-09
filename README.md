@@ -25,7 +25,7 @@
 - 🔗 [Live Demo](https://simple-unitconverter.netlify.app) | [Source Code](https://github.com/SarvajnaRekhapalli/unit-converter)
 
 ### 💻 LeetCode Solutions
-- 40+ problems solved in Java
+- 60+ problems solved in Java
 - 🔗 [Source Code](https://github.com/SarvajnaRekhapalli/Leetcode-solutions)
 
 ---
@@ -33,7 +33,7 @@
 ## 📊 Coding Profiles
 
 - **CodeChef:** 1000+ problems solved
-- **LeetCode:** 40+ problems solved
+- **LeetCode:** 60+ problems solved
 
 ---
 
